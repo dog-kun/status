@@ -15,7 +15,7 @@ English | [简体中文](./README.zh-CN.md)
 
 ## 👀 Demo
 
-> Demo password: `12345`
+> Demo password: `123456`
 
 - [IMSYY-Site Monitoring](https://status.imsyy.top/)
 
